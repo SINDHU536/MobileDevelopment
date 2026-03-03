@@ -1,13 +1,13 @@
 ## 📱 App Screenshots
 
 ### 🏠 Home Screen
-![Home Screen](./screenshots/home.png)
+![Home Screen](./screenshots/HomeScreen1.png)
 
 ### ➕ Add Contact Screen
-![Add Contact](./screenshots/add-contact.png)
+![Add Contact](./screenshots/HomeScreen2.png)
 
 ### ✏️ Edit Contact Screen
-![Edit Contact](./screenshots/edit-contact.png)
+![Edit Contact](./screenshots/HomeScreen3.png)
 
 
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
